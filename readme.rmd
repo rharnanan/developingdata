@@ -1,0 +1,9 @@
+The application lets you choose which car to purchase based on annual gasoline allowance using the mtcars dataset.
+
+1. Enter in weekly miles driven 
+2. Enter in the price per gallon.
+3. Enter in Annual Expense for gasoline.
+
+The annual cost on gasoline is calculted  Then, you can enter the maximum amount of money you want to spend on gasoline, and the table shows only the cars that are under the annual expense 
+
+Source code for ui.R and server.R files are available on the GitHub.
